@@ -1,0 +1,4 @@
+var parkinglotHallstatt = {
+    "type": "FeatureCollection",
+    "features": [{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [13.64469684200003, 47.55486945600006] } }, { "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [13.66125762400003, 47.546349683000074] } }, { "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [13.648398020000059, 47.552553138000064] } }, { "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [13.67757358700004, 47.549313347000066] } }, { "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [13.639066021000076, 47.603282481000065] } }]
+}
